@@ -1,1 +1,1 @@
-{"family_id": "NtxvWFbX9exupa5MDUPfsZ", "version": 4, "name": "image_classification", "module_predecessor": "nsj5YE4ofENW4T9wUjAajS", "experiment_predecessor": "ct7mSopE99oz8azpVvPbaL"}
+{"version": 5, "family_id": "NtxvWFbX9exupa5MDUPfsZ", "module_predecessor": "NLdsaPeeLeneXCob6qX8aS", "experiment_predecessor": "YcCztVCsuG3iFbH5Uz3naF", "name": "image_classification"}
